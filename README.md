@@ -1,23 +1,123 @@
-# 💫 About Me:
-🔭 I'm currently working on: Building end-to-end CI/CD pipelines <br>and Kubernetes deployments for self-directed cloud projects.<br><br>👯 I'm looking to collaborate on: Open-source DevOps tooling, <br>Terraform modules, and Kubernetes learning projects.<br><br>🤝 I'm looking for help with: Landing my first DevOps/Cloud Engineer<br> role and real-world project collaboration.<br><br>🌱 I'm currently learning: AWS Solutions Architect Associate (SAA) <br>and Certified Kubernetes Administrator (CKA) prep.<br><br>💬 Ask me about: AWS, Azure, GCP, Docker, Kubernetes, Terraform, <br>Ansible, and CI/CD pipelines.<br><br>⚡ Fun fact: I automated my server configuration process to run 70% <br>faster using Ansible.
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Docker | Kubernetes | CI/CD</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-651b572b1/)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manireet0607&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manireet0607&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manireet0607&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manireet0607&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=manireet0607&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+- 🎓 2026 BCA Graduate, Ganga Institute of Technology and Management
+- ☁️ Learning AWS Cloud & building hands-on infrastructure projects
+- 🐳 Docker & Kubernetes practitioner
+- ⚙️ Terraform | Ansible | Jenkins | GitHub Actions
+- 🔐 Building toward a DevSecOps profile (Trivy, SonarQube, HashiCorp Vault, OPA)
+- 📍 Based in Dwarka, New Delhi, India
+- 🎯 Actively looking for entry-level DevOps / Cloud Engineer roles (open to remote & pan-India)
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,githubactions,git,github,bash,linux,ubuntu,python,nginx,flask,mysql,vscode,postman&perline=18" />
+</p>
+
+---
+
+# 🛠️ Featured Projects
+
+- **Kubernetes Rolling Update on AWS EC2** — Zero-downtime deployment using kubeadm, with socat-based validation
+- **Jenkins CI/CD Pipeline** — GitHub webhook-triggered pipeline with Jenkinsfile, deploying to EC2
+- **Terraform + Ansible Server Provisioning** — Modular VPC/EC2/ALB/RDS setup with S3 remote state and DynamoDB locking
+- **Dockerized Flask App with Nginx** — Multi-stage builds, reverse proxy via Docker Compose
+- **Multi-Module Terraform Project** — VPC, EC2, security-group, ALB, RDS modules with dev/qa/prod environment separation
+- **Cloud Resume Challenge** — Built using S3, CloudFront, Route 53, API Gateway, Lambda, DynamoDB, and IAM
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manireet0607&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manireet0607&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=manireet0607&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manireet0607&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manireet0607&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/manireet0607">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Automate everything. Learn continuously. Deliver reliably."**
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+</p>
