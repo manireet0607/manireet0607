@@ -1,40 +1,241 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Docker | Kubernetes | CI/CD</h3>
+
+<h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Cloud & DevSecOps Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Linux+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Infrastructure+as+Code;Cloud+%26+DevSecOps+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 2026 BCA Graduate, Ganga Institute of Technology and Management
-- ☁️ Learning AWS Cloud & building hands-on infrastructure projects
-- 🐳 Docker & Kubernetes practitioner
-- ⚙️ Terraform | Ansible | Jenkins | GitHub Actions
-- 🔐 Building toward a DevSecOps profile (Trivy, SonarQube, HashiCorp Vault, OPA)
-- 📍 Based in Dwarka, New Delhi, India
-- 🎯 Actively looking for entry-level DevOps / Cloud Engineer roles (open to remote & pan-India)
+* 💼 **DevOps Engineer**
+* ☁️ Working with **AWS & Azure Cloud**
+* 🐳 Hands-on with **Docker & Kubernetes**
+* ⚙️ Building CI/CD pipelines using **Jenkins & GitHub Actions**
+* 🏗️ Infrastructure as Code with **Terraform**
+* 🐧 Comfortable with **Linux, Bash & Git**
+* 🔐 Interested in **DevSecOps & Cloud Security**
+* 🌱 Currently strengthening my skills in **Kubernetes, Helm, ArgoCD & Cloud Security**
+* 🎯 Long-term Goal: **Cloud Security / DevSecOps Engineer**
 
 ---
 
 # 🚀 Tech Stack
 
+## ☁️ Cloud & Infrastructure
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,githubactions,git,github,bash,linux,ubuntu,python,nginx,flask,mysql,vscode,postman&perline=18" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
+</p>
+
+## 🐳 Containers & Orchestration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+</p>
+
+## ⚙️ CI/CD & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" />
+</p>
+
+## 🐧 Linux & Scripting
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" />
+</p>
+
+## 🌐 Networking & Web
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nginx" />
+</p>
+
+## 📊 Monitoring & Observability
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+## 🗄️ Databases & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,vscode" />
 </p>
 
 ---
 
-# 🛠️ Featured Projects
+# 🛠️ DevOps Capabilities
 
-- **Kubernetes Rolling Update on AWS EC2** — Zero-downtime deployment using kubeadm, with socat-based validation
-- **Jenkins CI/CD Pipeline** — GitHub webhook-triggered pipeline with Jenkinsfile, deploying to EC2
-- **Terraform + Ansible Server Provisioning** — Modular VPC/EC2/ALB/RDS setup with S3 remote state and DynamoDB locking
-- **Dockerized Flask App with Nginx** — Multi-stage builds, reverse proxy via Docker Compose
-- **Multi-Module Terraform Project** — VPC, EC2, security-group, ALB, RDS modules with dev/qa/prod environment separation
-- **Cloud Resume Challenge** — Built using S3, CloudFront, Route 53, API Gateway, Lambda, DynamoDB, and IAM
+```text
+Cloud Computing
+       ↓
+AWS & Azure
+       ↓
+Linux & Networking
+       ↓
+Git & GitHub
+       ↓
+Docker & Containerization
+       ↓
+CI/CD Automation
+       ↓
+Jenkins & GitHub Actions
+       ↓
+Terraform & Infrastructure as Code
+       ↓
+Kubernetes & Helm
+       ↓
+Monitoring & Observability
+       ↓
+DevSecOps & Cloud Security
+```
+
+---
+
+# 🔥 Featured Areas
+
+## ☁️ Cloud Engineering
+
+Designing and deploying cloud infrastructure using **AWS and Azure**, with a focus on scalability, reliability, automation, and security.
+
+## ⚙️ CI/CD Automation
+
+Building automated CI/CD pipelines using **Jenkins and GitHub Actions** to streamline application build, testing, containerization, and deployment workflows.
+
+## 🏗️ Infrastructure as Code
+
+Managing repeatable and version-controlled infrastructure using **Terraform**, including cloud networking, compute, storage, and application infrastructure.
+
+## 🐳 Containerization
+
+Building and managing containerized applications using **Docker**, including Dockerfiles, images, containers, networking, volumes, and container deployment.
+
+## ☸️ Kubernetes
+
+Working with Kubernetes concepts including:
+
+* Deployments
+* Services
+* ConfigMaps & Secrets
+* Namespaces
+* RBAC
+* Rolling Updates
+* Rollbacks
+* Networking
+* Storage
+* Helm
+* Cluster Operations
+
+## 🔐 DevSecOps & Cloud Security
+
+Developing an understanding of integrating security into DevOps workflows, including:
+
+* Container Security
+* Infrastructure Security
+* IAM & Access Control
+* Secrets Management
+* Vulnerability Scanning
+* Secure CI/CD Pipelines
+* Cloud Security Fundamentals
+
+## 📊 Monitoring & Observability
+
+Working with **Prometheus and Grafana** for infrastructure and application monitoring, metrics collection, dashboards, and observability.
+
+---
+
+# 🚀 Projects & Hands-On Experience
+
+### ☁️ AWS Cloud Infrastructure
+
+Hands-on experience deploying and managing AWS infrastructure including:
+
+* EC2
+* VPC
+* Security Groups
+* IAM
+* S3
+* EFS
+* RDS
+* Networking
+* Linux-based cloud servers
+
+### 🏗️ Terraform Infrastructure
+
+Building AWS infrastructure using Terraform with:
+
+* Infrastructure as Code
+* Variables
+* Remote State
+* S3 Backend
+* Modular configuration
+* Automated infrastructure provisioning
+
+### ⚙️ Jenkins CI/CD Pipeline
+
+Created CI/CD workflows using Jenkins and GitHub for:
+
+* Source code integration
+* Automated builds
+* Docker image creation
+* Container deployment
+* AWS integration
+* Kubernetes deployment
+
+### ☸️ Kubernetes Deployment
+
+Hands-on experience deploying containerized applications to Kubernetes environments using:
+
+* Deployments
+* Services
+* ReplicaSets
+* Rolling Updates
+* Rollbacks
+* Kubernetes configuration
+* Docker images
+* ECR
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Helm-Learning-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevSecOps-Learning-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Security-Learning-1F6FEB?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 Career Focus
+
+```text
+DevOps Engineering
+        ↓
+Cloud Engineering
+        ↓
+Advanced Kubernetes
+        ↓
+GitOps & Automation
+        ↓
+DevSecOps
+        ↓
+Cloud Security
+        ↓
+Cloud Security Engineer
+```
 
 ---
 
@@ -42,9 +243,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manireet0607&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manireet0607&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manireet0607&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manireet0607&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -54,7 +255,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=manireet0607&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=manireet0607&theme=tokyonight"/>
 
 </p>
 
@@ -64,35 +265,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manireet0607&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manireet0607&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Profile Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manireet0607&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manireet0607&theme=algolia&column=4"/>
 
 </p>
 
@@ -103,7 +286,11 @@
 <p align="center">
 
 <a href="https://github.com/manireet0607">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manish-kumar-651b572b1/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
@@ -112,7 +299,7 @@
 
 # 💬 Quote
 
-> **"Automate everything. Learn continuously. Deliver reliably."**
+> **"Automate everything. Secure what you build. Keep learning."**
 
 ---
 
